@@ -127,12 +127,3 @@
     filter: invert(1);
   }
 }
-
-.transitionfade {
-  opacity: 1;
-  transition: 500ms;
-}
-
-html.is-animating .transitionfade {
-  opacity: 0;
-}

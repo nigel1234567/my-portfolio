@@ -9,11 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@swup/js-plugin": "^1.0.5",
     "eslint": "8.27.0",
     "eslint-config-next": "13.0.2",
+    "framer-motion": "^7.6.6",
     "next": "13.0.2",
     "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "swup": "^2.0.19"
+    "react-dom": "18.2.0"
   }
 }
